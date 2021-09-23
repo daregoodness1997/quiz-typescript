@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+}
+
+body {
+  background: #f2f2f2;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
